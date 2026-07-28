@@ -1,0 +1,6 @@
+Python version: 3 upwards
+pandas = 3.0.02
+numpy = 2.4.4
+scikit-learn = 1.8.0
+matplotlib = 3.10.8
+scipy = 1.17.1
